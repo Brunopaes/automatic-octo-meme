@@ -1,4 +1,4 @@
-# automatic-octo-template
+# Octo Template
 
 <small>_Optimized for python 3.6_</small>
 
