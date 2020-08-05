@@ -1,5 +1,10 @@
 # Octo Template
 
+![GitHub language count](https://img.shields.io/github/languages/count/Brunopaes/octo-template.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/Brunopaes/octo-template.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/Brunopaes/octo-template.svg)
+![GitHub](https://img.shields.io/github/license/Brunopaes/octo-template.svg)
+
 <small>_Optimized for python 3.6_</small>
 
 This is a project template. Used in other repositories.
