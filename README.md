@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Brunopaes/octo-template.svg)
 ![GitHub](https://img.shields.io/github/license/Brunopaes/octo-template.svg)
 
-<small>_Optimized for python 3.6_</small>
+<small>_Optimized for python 3.6+_</small>
 
 This is a project template. Used in other repositories.
 
